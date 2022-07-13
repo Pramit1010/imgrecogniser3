@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(230, 124, 82);
+    color: aliceblue;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px black;
+    border-style: dotted;
+    width: 350px;
+    height: 300px;
+}
+
